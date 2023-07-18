@@ -1,5 +1,3 @@
-// https://www.youtube.com/watch?v=0izA25HmkaE
-
 const cabecalho = document.querySelector("#cabecalho");
 const menu = document.querySelector("#menu");
 const btn_home = document.querySelector("#btn_home");
