@@ -1,4 +1,4 @@
-# Portfólio Anderson Motta
+# 👑 Portfólio Anderson Motta
 
 ![Se necessário atualize a página para carregamento do GIF](agenda.gif)
 
@@ -24,6 +24,12 @@ Para teste local utilize a extensão LiveServer : ritwickdey.LiveServer
 Crie um Banco de dados com WampServer: "https://www.youtube.com/watch?v=QXVyCunZN2s&pp=ygUKd2FtcHNlcnZlcg%3D%3D"
 Instale e configure Node-Red com banco criado: "https://www.youtube.com/watch?v=QJYwx3zWBlY&t=379s&pp=ygUIbm9kZS1yZWQ%3D"
 Abra o arquivo home.html com Live Server.
+
+## 🛠 Ferramentas
+
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## Contribuição
 
